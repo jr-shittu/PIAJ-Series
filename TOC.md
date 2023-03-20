@@ -72,8 +72,6 @@
 
 ## **Introduction**
 
-​	**The Flow** Josh Waiztkin
-
 ​	**The Evolution of Human Transition**
 
 ​	**Elements of Transition** 
@@ -105,7 +103,6 @@
 ​		**Flow Theory**
 
 
-
 ## **Chapter Two: Choice Architecture and Specialization(6-12)**
 
 ​	**Strong Head Start** R. Federer, Ingvar Kamprad
@@ -120,7 +117,6 @@
 
 ​	**Reversal**  Tiger Wood(Bird), George Stephenson(Frog), J. Waiztkin(Frobirds).
 
-​	  
 
 ## **Chapter Three: Deliberate Practice Stage(12-18)**
 
@@ -156,7 +152,7 @@
 
 ​	**Family Life** S. Jobs, Albert Einstein.
 
-​	**Scandals** kobe bryant, Tiger woods, Arg./inter Striker
+​	**Scandals** kobe bryant, Tiger woods, Mauro Icardi, John Terry
 
 **Reversal** Andre Agassi, Flying Eagle.
 
